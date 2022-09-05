@@ -1,0 +1,1 @@
+# python_luckynumber_without-whileloop
